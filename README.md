@@ -1,5 +1,5 @@
 # gemini.vim
-vim (not lua) colorscheme in the colors as shown in code examples as in AI.
+vim (not lua) colorscheme in the colors as shown in code examples of Gemini AI.
 
 ![Example](./gemini-colorscheme.jpg)
 
